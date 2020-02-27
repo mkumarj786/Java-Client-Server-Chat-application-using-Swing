@@ -1,12 +1,12 @@
 # Java-Client-Server-Chat-application-using-Swing
 ClientServer application runs over local host.
 
-#How to use
+# How to use
 //do compile Server.java and Client.java first.
 1)run sever first.
 2)run client.
 
-#Instructions
+# Instructions
 // Client window will wait for 10 seconds for user to give the port number.
 
 // If the port number is entered , client will try to set up connection with server if available.
