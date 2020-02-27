@@ -1,6 +1,6 @@
 ClientServer application runs over local host.
 
-//do compile Server.java nad Client.java first.
+//do compile Server.java and Client.java first.
 
 
 1) start sever first.
